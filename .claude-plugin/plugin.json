@@ -1,0 +1,26 @@
+{
+  "name": "mobile-ui-ux",
+  "version": "1.0.0",
+  "description": "Mobile UI/UX design best practices for React Native, iOS, and Android development. Includes platform-specific guidelines (iOS HIG, Material Design 3), production-ready component patterns, and comprehensive accessibility standards.",
+  "author": "olayinkaoshidipe",
+  "license": "MIT",
+  "repository": "https://github.com/olayinkaoshidipe/mobile-ui-ux-plugin",
+  "keywords": [
+    "mobile",
+    "ui",
+    "ux",
+    "design",
+    "react-native",
+    "ios",
+    "android",
+    "accessibility",
+    "material-design",
+    "human-interface-guidelines"
+  ],
+  "skills": [
+    "skills/mobile-ui-ux"
+  ],
+  "engines": {
+    "claude-code": ">=2.0.0"
+  }
+}

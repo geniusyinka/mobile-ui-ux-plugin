@@ -1,0 +1,59 @@
+{
+  "name": "mobile-ui-ux",
+  "displayName": "Mobile UI/UX Design",
+  "description": "Comprehensive mobile UI/UX design guidelines for React Native, iOS, and Android. Covers touch interactions, platform conventions, accessibility, and production-ready component patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "olayinkaoshidipe",
+    "url": "https://github.com/olayinkaoshidipe"
+  },
+  "categories": [
+    "design",
+    "mobile",
+    "react-native",
+    "accessibility"
+  ],
+  "tags": [
+    "mobile-ui",
+    "mobile-ux",
+    "react-native",
+    "ios",
+    "android",
+    "material-design",
+    "human-interface-guidelines",
+    "accessibility",
+    "wcag",
+    "touch-design",
+    "mobile-components",
+    "design-system"
+  ],
+  "features": [
+    "Touch-first design principles (44-48pt targets, thumb zones)",
+    "iOS Human Interface Guidelines reference",
+    "Material Design 3 / Material You guidelines",
+    "Production-ready React Native component patterns",
+    "Comprehensive accessibility checklist (WCAG, VoiceOver, TalkBack)",
+    "Dark mode implementation guide",
+    "Typography and spacing scales",
+    "Navigation patterns (tab bars, sheets, modals)"
+  ],
+  "triggers": [
+    "mobile app",
+    "react native",
+    "ios design",
+    "android design",
+    "touch target",
+    "mobile layout",
+    "bottom sheet",
+    "tab bar",
+    "mobile accessibility",
+    "material design",
+    "human interface guidelines"
+  ],
+  "compatibility": {
+    "claudeCode": ">=2.0.0",
+    "platforms": ["darwin", "linux", "win32"]
+  },
+  "icon": "smartphone",
+  "color": "#007AFF"
+}
