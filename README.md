@@ -5,7 +5,7 @@ A comprehensive Claude Code plugin providing mobile UI/UX design best practices 
 ## Installation
 
 ```bash
-/plugin install olayinkaoshidipe/mobile-ui-ux-plugin
+/plugin install geniusyinka/mobile-ui-ux-plugin
 ```
 
 Or add via marketplace:
